@@ -1,2 +1,3 @@
 # Temperature-Converter
-It converts from Celsius to Fahreheit and Kelvin  and vice versa
+It converts temperature between Celsius,Fahreheit,Kelvin.Iam use HTML,CSS and JavaScript to develop this Converter.
+
